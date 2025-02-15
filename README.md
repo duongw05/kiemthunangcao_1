@@ -47,6 +47,13 @@
             <artifactId>slf4j-simple</artifactId>
             <version>2.0.11</version>
         </dependency>
+
+## WebDriverManager
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.8.0</version>
+        </dependency>
         
 
         
