@@ -20,7 +20,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.17.0</version>
+            <version>4.27.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
@@ -43,7 +43,13 @@
             <version>5.7.0</version> <!-- Hoặc phiên bản mới nhất -->
             <scope>test</scope>
         </dependency>
-<<<<<<< HEAD
+
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.8.0</version>
+        </dependency>
+
 
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -52,8 +58,6 @@
             <scope>provided</scope>
         </dependency>
 
-=======
->>>>>>> 0810dedb48f2527b60223fa0ab02398ba2780a56
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
